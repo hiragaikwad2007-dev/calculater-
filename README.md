@@ -1,2 +1,2 @@
 # calculater-
-cal. in python 
+calaculater. in python 
